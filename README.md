@@ -1,4 +1,6 @@
 # customer-segmentation-using-k-means
+![Screenshot 2025-04-17 101239](https://github.com/user-attachments/assets/5af4e257-0c60-4743-93c2-a0def069a0ff)
+
 
 ## Overview 
 
